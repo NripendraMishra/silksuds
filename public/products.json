@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Alovera Milk Soap",
+    "slug": "alovera-milk-soap",
+    "price": 88,
+    "originalPrice": 110,
+    "rating": 4.92,
+    "reviews": 210,
+    "category": "Popular Range",
+    "image": "/images/alovera-milk-soap.jpeg",
+    "description": "A soothing soap enriched with aloe vera and milk to gently cleanse, hydrate, and nourish your skin. Ideal for daily use and all skin types.",
+    "details": "Alovera Milk Soap combines the natural healing properties of aloe vera with the moisturizing benefits of milk. This gentle formula soothes irritation, reduces dryness, and leaves your skin feeling soft and refreshed. Aloe vera helps calm sensitive skin and promotes healing, while milk deeply hydrates and nourishes. Free from harsh chemicals, this soap is suitable for all skin types, including sensitive skin. Enjoy a creamy lather and a subtle, refreshing fragrance with every wash."
+  },
+  {
+    "id": 2,
+    "name": "Badam Milk Honey Soap",
+    "slug": "badam-milk-honey-soap",
+    "price": 360,
+    "originalPrice": 432,
+    "rating": 4.85,
+    "reviews": 180,
+    "category": "Popular Range",
+    "image": "/images/badam-milk-honey-soap.jpeg",
+    "description": "A luxurious soap infused with almond, milk, and honey to deeply moisturize and rejuvenate your skin. Leaves your skin soft, smooth, and delicately scented.",
+    "details": "Badam Milk Honey Soap is crafted with nourishing almond oil, creamy milk, and pure honey. Almond oil provides essential vitamins and antioxidants, milk hydrates and softens, while honey locks in moisture and soothes the skin. This rich blend helps restore skin’s natural glow, making it ideal for dry and sensitive skin. The gentle formula cleanses without stripping natural oils, leaving your skin supple and radiant. Enjoy the sweet, comforting aroma and silky lather every day."
+  },
+  {
+    "id": 3,
+    "name": "Haldi Chandan Kesar Soap",
+    "slug": "haldi-chandan-kesar-soap",
+    "price": 110,
+    "originalPrice": 132,
+    "rating": 4.78,
+    "reviews": 145,
+    "category": "Popular Range",
+    "image": "/images/haldi-chandan-kesar-soap.jpeg",
+    "description": "A revitalizing soap enriched with turmeric, sandalwood, and saffron for radiant, healthy-looking skin. Brightens complexion and soothes irritation.",
+    "details": "Haldi Chandan Kesar Soap blends the power of turmeric (haldi), sandalwood (chandan), and saffron (kesar) to promote glowing, even-toned skin. Turmeric is known for its anti-inflammatory and antibacterial properties, sandalwood calms and cools the skin, and saffron enhances brightness. This soap helps reduce blemishes, soothes irritation, and imparts a natural radiance. Suitable for all skin types, it gently cleanses while leaving a pleasant, earthy fragrance."
+  },
+  {
+    "id": 4,
+    "name": "Neem Tulsi Soap",
+    "slug": "neem-tulsi-soap",
+    "price": 430,
+    "originalPrice": 516,
+    "rating": 4.81,
+    "reviews": 120,
+    "category": "Popular Range",
+    "image": "/images/neem-tulsi-soap.jpeg",
+    "description": "A purifying soap with neem and tulsi extracts to cleanse, protect, and refresh your skin. Helps fight acne and keeps skin clear and healthy.",
+    "details": "Neem Tulsi Soap harnesses the antibacterial and antifungal properties of neem and tulsi (holy basil) to deeply cleanse and protect your skin. This soap helps prevent breakouts, soothes irritation, and controls excess oil. Neem purifies and detoxifies, while tulsi calms and rejuvenates. Ideal for oily and acne-prone skin, it leaves your skin feeling fresh, clean, and naturally fragrant. Gentle enough for daily use."
+  }
+]
